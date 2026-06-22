@@ -4,7 +4,7 @@ Curos EBAC primeiro módulo: Python, Linux e GitHub.
 Abra o arquivo no colab e execute as células:
 Calculadora.ipynb
 
-Explicação do Código Python
+*Explicação do Código Python
 O programa utiliza um laço de repetição para manter a calculadora em execução até que o usuário escolha a opção de sair.
 
 Fluxo do Programa:
@@ -28,3 +28,11 @@ Entrada de dados com input()
 Conversão de tipos com float()
 Operações matemáticas básicas
 Controle de fluxo do programa
+
+*Executar código shel
+1- Dá permissão de execução
+chmod +x calculadora.sh
+
+2- Executar o escript
+./calculadora.sh
+
